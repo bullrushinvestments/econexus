@@ -1,0 +1,37 @@
+{
+  "name": "EcoNexus",
+  "type": "ecommerce",
+  "description": "EcoNexus is a subscription-based marketplace that connects small businesses with sustainable products and services. It also offers AI-driven insights to help them optimize their supply chains for sustainability.",
+  "generated_at": "2025-12-06T15:52:40.179121",
+  "components": [
+    "spec",
+    "build",
+    "deploy",
+    "spec_requirements",
+    "spec_architecture",
+    "build_code",
+    "build_test"
+  ],
+  "files_written": [
+    "businesses\\production_test\\ecommerce\\econexus\\src\\components\\component.tsx",
+    "businesses\\production_test\\ecommerce\\econexus\\__tests__\\component.test.tsx",
+    "businesses\\production_test\\ecommerce\\econexus\\vercel.json",
+    "businesses\\production_test\\ecommerce\\econexus\\src\\components\\requirements.tsx",
+    "businesses\\production_test\\ecommerce\\econexus\\__tests__\\architecture.test.tsx",
+    "businesses\\production_test\\ecommerce\\econexus\\vercel.json",
+    "businesses\\production_test\\ecommerce\\econexus\\src\\components\\test.tsx",
+    "businesses\\production_test\\ecommerce\\econexus\\src\\app\\layout.tsx",
+    "businesses\\production_test\\ecommerce\\econexus\\src\\app\\globals.css",
+    "businesses\\production_test\\ecommerce\\econexus\\src\\app\\page.tsx"
+  ],
+  "tasks_completed": 7,
+  "tasks_failed": 0,
+  "ap2_estimated_cost": 45.2,
+  "ap2_estimated_tokens": 19500,
+  "ap2_generation_approval": null,
+  "infrastructure_approvals": {
+    "analytics": null,
+    "database": null,
+    "storage": null
+  }
+}
